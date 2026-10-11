@@ -4,6 +4,6 @@
 
 📖 [《AI Agent 全栈实战》](https://coderfather.com/ai/) · 免费在线读，从「会补全」用到「能交付」
 📰 [AI 日报](https://news.coderfather.com/) · 每天早上发
-✍️ [博客](https://zackzhangkai.github.io/) · 长文与踩坑记录
+✍️ [博客](https://zack6116.github.io/) · 长文与踩坑记录
 
 下面的仓库，都是这个过程里顺手做出来的工具 —— 用得上的直接拿走。
